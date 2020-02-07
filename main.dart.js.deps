@@ -18,6 +18,7 @@ file:///C:/Users/israe/OneDrive/Documentos/GitHub/counter_collection/lib/app/mod
 file:///C:/Users/israe/OneDrive/Documentos/GitHub/counter_collection/lib/app/modules/home/home_page.dart
 file:///C:/Users/israe/OneDrive/Documentos/GitHub/counter_collection/lib/app/shared/models/counter_model.dart
 file:///C:/Users/israe/OneDrive/Documentos/GitHub/counter_collection/lib/app/shared/models/counter_model.g.dart
+file:///C:/Users/israe/OneDrive/Documentos/GitHub/counter_collection/lib/app/shared/ui_components/widgets_utils.dart
 file:///C:/Users/israe/OneDrive/Documentos/GitHub/counter_collection/lib/main.dart
 file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/collection.dart
 file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/algorithms.dart
@@ -96,6 +97,7 @@ file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/mobx-1.0.1/lib/src/cor
 file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/mobx-1.0.1/lib/src/interceptable.dart
 file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/mobx-1.0.1/lib/src/listenable.dart
 file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/mobx-1.0.1/lib/src/utils.dart
+file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/platform_alert_dialog-1.0.0+2/lib/platform_alert_dialog.dart
 file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_buffers.dart
 file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/hash.dart
 file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/aabb2.dart
